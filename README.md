@@ -1,7 +1,7 @@
 Developed with ❤️ by Abdulrahman Alnammoura — AI Graduate & Technical Specialist.
 
 # 🧠 Abdulrahman Alnammoura | Premium Gemini 2.5 RAG PDF Chat
-
+![Workspace Interface](interface.png)
 A professional-grade, high-performance RAG workspace built from scratch using the native **Google GenAI SDK** and optimized for **Gemini 2.5 Flash**. This system delivers ultra-low latency document interactions with absolute architectural efficiency.
 
 ---
