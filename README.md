@@ -16,10 +16,11 @@ A professional-grade, high-performance RAG workspace built from scratch using th
 
 ## 🛠️ Installation & Setup
 
-### 1. Clone the Repository
-Bash
+```bash
 git clone [https://github.com/911nxt/Gemini-2.5-Premium-PDF-Chat.git](https://github.com/911nxt/Gemini-2.5-Premium-PDF-Chat.git)
 cd Gemini-2.5-Premium-PDF-Chat
-Developed with ❤️ by Abdulrahman Alnammoura — AI Graduate & Technical Specialist.
+pip install -r requirements.txt
+streamlit run app.py
 
-غا
+
+Developed with ❤️ by Abdulrahman Alnammoura — AI Graduate & Technical Specialist.
